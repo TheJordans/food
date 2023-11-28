@@ -1,0 +1,74 @@
+{
+    "created": "2023-09-26",
+    "minutes": 30,
+    "name": "mashed-potatoes-meetballs",
+    "tags": [
+        "lunch",
+        "dinner"
+    ],
+    "languages": {
+        "sv": {
+            "name": "Potatismos & köttbullar",
+            "ingredients": [
+                {
+                    "name": "potatismos",
+                    "ingredients": [
+                        {
+                            "name": "potatis",
+                            "quantity": "1 kg"
+                        },
+                        {
+                            "name": "mjölk",
+                            "quantity": "2.5 dl"
+                        },
+                        {
+                            "name": "smör",
+                            "quantity": "50 gram"
+                        },
+                        {
+                            "name": "salt",
+                            "quantity": "1 tsk"
+                        },
+                        {
+                            "name": "vitpeppar",
+                            "quantity": "1 tsk"
+                        }
+                    ]
+                },
+                {
+                    "name": "köttbullar",
+                    "quantity": "4 portioner"
+                },
+                {
+                    "name": "gräddsås",
+                    "ingredients": [
+                        {
+                            "name": "gräddsåspulver",
+                            "quantity": "2 påsar"
+                        },
+                        {
+                            "name": "mjölk",
+                            "quantity": "4 dl"
+                        },
+                        {
+                            "name": "vatten",
+                            "quantity": "2 dl"
+                        }
+                    ]
+                },
+                {
+                    "name": "lingonsylt",
+                    "quantity": "4 portioner"
+                }
+            ],
+            "steps": [
+                "Skala & tärna 1 kg potatis. Häll i kastrull & täck med vatten. Låt koka tills mjuka.",
+                "Stek 4 portioner köttbullar i en stekpanna.",
+                "Blanda 2 påsar gräddsåspulver med 2 dl vatten & 4 dl mjölk. Koka upp & låt sen sjuda tills den tjocknar till under omrörning.",
+                "Häll ut vattnet ur kastrullen med potatis, tillsätt 50 gram smör, 1 tsk salt & 1 tsk vitpeppar. Mosa allt i kastrullen, tillsätt sen 2.5 dl mjölk & mosa vidare till rätt konsistens. Lägg till mer mjölk/smör om det blir för tjockt.",
+                "Servera potatismos, köttbullar & gräddsås med lingonsylt."
+            ],
+            "quantity": "4 portioner"
+        }
+    }
+}
