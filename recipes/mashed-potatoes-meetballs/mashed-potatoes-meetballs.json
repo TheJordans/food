@@ -6,7 +6,7 @@
         "lunch",
         "dinner"
     ],
-    "translations": {
+    "languages": {
         "sv": {
             "name": "Potatismos & köttbullar",
             "ingredients": [
