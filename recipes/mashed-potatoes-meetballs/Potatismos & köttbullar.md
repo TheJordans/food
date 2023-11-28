@@ -7,7 +7,7 @@ Mängd: 4 portioner
 
 # Bilder
 
-![IMG_3042.jpeg](Potatismos%20&%20ko%CC%88ttbullar%2045d5a0e1168e4918a16c23f1fe163f0a/IMG_3042.jpeg)
+![IMG_3042.jpeg](images/IMG_3042.jpeg)
 
 ---
 
